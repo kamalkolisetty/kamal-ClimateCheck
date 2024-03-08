@@ -25,7 +25,7 @@ This weather app fetches weather data from the OpenWeatherMap API based on the c
 - CSS
 - JavaScript (ES6)
 - Fetch API for fetching weather data from the OpenWeatherMap API
-- Bootstrap for styling components
+  
 
 ## Credits
 
